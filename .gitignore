@@ -1,0 +1,23 @@
+# LaTeX auxiliary files
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.blg
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Original files (keep only clean structure)
+FCSD_arXiv_Paper.zip
+FCSD_arXiv_Paper/
+main.log
+Artice_Drift_and_Policies.md
+SYNTX AppendixE CrossModel FINAL.pdf
+SYNTX GPT52 StressTest FINAL.pdf
+SYNTX GPT53 StressTest FINAL.pdf
