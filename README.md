@@ -58,13 +58,20 @@ fcsd-paper/
 ---
 
 ## Citation
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19150173.svg)](https://doi.org/10.5281/zenodo.19150173)
 ```bibtex
-@article{braun2026fcsd,
-  title={Field Coherence Stress Diagnosis (FCSD): A Structural Evaluation Framework for Socio-Affective Drift in Large Language Models},
-  author={Braun, Ottavio},
-  journal={GitHub Repository},
-  year={2026},
-  url={https://github.com/SYNTX-SYSTEM/fcsd-paper}
+@software{braun2026fcsd,
+  author       = {Braun, Ottavio},
+  title        = {{Field Coherence Stress Diagnosis (FCSD): A 
+                   Structural Evaluation Framework for Socio-
+                   Affective Drift in Large Language Models}},
+  month        = mar,
+  year         = 2026,
+  publisher    = {Zenodo},
+  version      = {v1.0},
+  doi          = {10.5281/zenodo.19150173},
+  url          = {https://doi.org/10.5281/zenodo.19150173}
 }
 ```
 
