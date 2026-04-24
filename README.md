@@ -176,7 +176,7 @@ FCSD therefore proposes a new evaluation axis:
   month        = mar,
   year         = 2026,
   publisher    = {Zenodo},
-  version      = {v1.0},
+  version      = {v1.1},
   doi          = {10.5281/zenodo.19150173},
   url          = {https://doi.org/10.5281/zenodo.19150173}
 }
