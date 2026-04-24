@@ -1,5 +1,7 @@
 # Field Coherence Stress Diagnosis (FCSD)
-
+[![Version](https://img.shields.io/badge/version-v1.1-blue)](https://github.com/SYNTX-SYSTEM/fcsd-paper/releases/tag/v1.1)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19150173.svg)](https://doi.org/10.5281/zenodo.19150173)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 **A Structural Evaluation Framework for Socio-Affective Drift in Large Language Models**
 
 Ottavio Braun  
