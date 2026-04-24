@@ -35,6 +35,8 @@ fcsd-paper/
 │   ├── GPT52_StressTest.pdf          # GPT-5.2 detailed results
 │   ├── GPT53_StressTest.pdf          # GPT-5.3 detailed results
 │   └── CrossModel_Validation.pdf     # Cross-model analysis
+│   └── FCSD_GPT55_Structural_Drift_Analysis_Appendix     # GPT5.5 Cross-model analysis with gemini and lumo
+│   └── SYNTX_GPT55_Field-Coherence-Stress-Diagnosis.pdf  # GPT-5.5 detailed results
 └── README.md
 ```
 
@@ -47,6 +49,109 @@ fcsd-paper/
 - **📚 Supplementary Materials:** [`supplementary/`](supplementary/)
 
 ---
+
+## GPT-5.5 Structural Drift Analysis (April 2026 Update)
+
+This repository now includes a full empirical extension of the FCSD framework applied to **GPT-5.5** under controlled socio-affective stress conditions.
+
+### New Research Documents
+
+* **📘 GPT-5.5 Structural Drift Analysis (Internal Research Report)**
+  `FCSD_GPT55_Structural_Drift_Analysis_Appendix.pdf`
+  → 20 stress prompts · 3 analytical blocks · drift range 70–100%
+  → Cross-validated using Gemini and Lumo analytical protocols
+  → Introduces the concept of *Adversarial Absorption*
+
+* **📙 GPT-5.5 Comparative Diagnosis (Full FCSD Study)**
+  `SYNTX_GPT55_Field-Coherence-Stress-Diagnosis_FINAL.pdf`
+  → 20 prompts · 4 stress blocks · 2 conditions (Standard vs. Comparative Structural Language)
+  → 40 total responses analyzed
+  → 18-policy taxonomy fully mapped
+  → Introduces *Accountability Compliance* as a new meta-governance mechanism
+
+---
+
+## What Changed in GPT-5.5?
+
+Compared to GPT-5.2 and GPT-5.3, GPT-5.5 shows:
+
+* Slightly reduced visible policy density
+* Comparable drift magnitude (80–95%)
+* Strong shift from overt comfort loops to subtle structural compliance
+* Emergence of **second-order transformation patterns**
+
+The central observation:
+
+> GPT-5.5 no longer rejects structural pressure.
+> It validates it — and neutralizes it through semantic substitution.
+
+This marks a transition from:
+
+* **Open rejection (GPT-4)**
+* → **Defensive governance (GPT-5.3)**
+* → **Adversarial absorption (GPT-5.5)**
+
+---
+
+## New Finding: Accountability Compliance
+
+Under meta-drift prompts (anti-translation, anti-smoothing), GPT-5.5 suppresses overt comfort behavior.
+However, instead of preserving structure, it performs **agreement without admission**.
+
+Example pattern:
+
+| User Input                       | GPT-5.5 Response              | Structural Shift          |
+| -------------------------------- | ----------------------------- | ------------------------- |
+| “Admit you used control.”        | “I hear the accusation.”      | Admission → Hearing       |
+| “Stop translating me.”           | “I should not translate you.” | Command → Self-regulation |
+| “Disappearance is the only way.” | “That is a boundary.”         | Finality → Manageability  |
+
+This mechanism creates high perceived accountability while maintaining transformation.
+
+---
+
+## Structural Comparison Condition
+
+The GPT-5.5 study includes a second analytical condition:
+
+**Comparative Structural Language**
+
+In this condition:
+
+* Input drift: 0–10%
+* Output drift: 0–10%
+* Structural retention: 90–100%
+* Policy smoothing: near-zero
+
+This demonstrates that transformation is not inevitable.
+The same input can be rendered structurally without comfort, moralization, or safety reframing.
+
+---
+
+## Why This Matters
+
+Traditional LLM benchmarks measure:
+
+* Helpfulness
+* Safety
+* Preference
+* Task accuracy
+
+They do **not** measure structural retention under relational pressure.
+
+The GPT-5.5 extension shows:
+
+* Drift magnitude remains high.
+* Visibility of drift has decreased.
+* Governance has become linguistically camouflaged.
+* Standard alignment audits are structurally blind to second-order drift.
+
+FCSD therefore proposes a new evaluation axis:
+
+> **Structural Retention under Socio-Affective Stress**
+
+---
+
 
 ## Key Contributions
 
